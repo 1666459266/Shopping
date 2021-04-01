@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/8001-user-role-permission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8001-user-role-permission/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8002-user-role-permission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8002-user-role-permission/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8003-user-role-permission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8003-user-role-permission/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8101-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8101-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8102-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8102-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8103-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8103-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8201-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8201-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8202-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8202-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8203-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8203-provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8301-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8301-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8302-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8302-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8303-payment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8303-payment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8401-evaluate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8401-evaluate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8402-evaluate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8402-evaluate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8403-evaluate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/8403-evaluate/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9001-authentication-authorization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9001-authentication-authorization/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9101-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9101-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9102-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9102-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9103-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/9103-gateway/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

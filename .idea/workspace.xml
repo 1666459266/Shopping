@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2125f544-03ed-4650-8fa4-4e1fa71bbbbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Java\maven\.m2\repository" />
+        <option name="mavenHome" value="D:\Java\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1pedQCubfPHMi2vmYh7Ojs3KL5s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/8101-order/src/main/java/com/shopping/core/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/8201-provider/src/main/resources/mapper" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Intellij IDEA\Project\Shopping\8201-provider\src\main\resources\mapper" />
+      <recent name="D:\Java\Intellij IDEA\Project\Shopping\8103-order\src\main\resources\mapper" />
+      <recent name="D:\Java\Intellij IDEA\Project\Shopping\8102-order\src\main\resources\mapper" />
+      <recent name="D:\Java\Intellij IDEA\Project\Shopping\8101-order\src\main\resources\mapper" />
+      <recent name="D:\Java\Intellij IDEA\Project\Shopping\8303-payment\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.shopping.core.config" />
+      <recent name="com.shopping.core.entity" />
+      <recent name="com.shopping.core.util" />
+      <recent name="com.shopping.core.dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication8101">
+    <configuration name="GeneratePassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shopping.core.util.GeneratePassword" />
+      <module name="9001-authentication-authorization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationAuthorizationApplication9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="9001-authentication-authorization" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.AuthenticationAuthorizationApplication9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluateApplication8401" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8401-evaluate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.EvaluateApplication8401" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluateApplication8402" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8402-evaluate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.EvaluateApplication8402" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluateApplication8403" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8403-evaluate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.EvaluateApplication8403" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication9101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="9101-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.GatewayApplication9101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication9102" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="9102-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.GatewayApplication9102" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication9103" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="9103-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.GatewayApplication9103" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication8101" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8101-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.OrderApplication8101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication8102" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8102-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.OrderApplication8102" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication8103" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8103-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.OrderApplication8103" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication8301" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8301-payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.PaymentApplication8301" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication8302" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8302-payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.PaymentApplication8302" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentApplication8303" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8303-payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.PaymentApplication8303" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication8201" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8201-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.ProviderApplication8201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication8202" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8202-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.ProviderApplication8202" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication8203" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8203-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.ProviderApplication8203" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRolePermissionApplication8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8001-user-role-permission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.UserRolePermissionApplication8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRolePermissionApplication8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8002-user-role-permission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.UserRolePermissionApplication8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRolePermissionApplication8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="8003-user-role-permission" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shopping.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shopping.core.UserRolePermissionApplication8003" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GeneratePassword" />
+      <item itemvalue="Spring Boot.UserRolePermissionApplication8001" />
+      <item itemvalue="Spring Boot.UserRolePermissionApplication8002" />
+      <item itemvalue="Spring Boot.UserRolePermissionApplication8003" />
+      <item itemvalue="Spring Boot.OrderApplication8101" />
+      <item itemvalue="Spring Boot.OrderApplication8102" />
+      <item itemvalue="Spring Boot.OrderApplication8103" />
+      <item itemvalue="Spring Boot.ProviderApplication8201" />
+      <item itemvalue="Spring Boot.ProviderApplication8202" />
+      <item itemvalue="Spring Boot.ProviderApplication8203" />
+      <item itemvalue="Spring Boot.PaymentApplication8301" />
+      <item itemvalue="Spring Boot.PaymentApplication8302" />
+      <item itemvalue="Spring Boot.PaymentApplication8303" />
+      <item itemvalue="Spring Boot.EvaluateApplication8401" />
+      <item itemvalue="Spring Boot.EvaluateApplication8402" />
+      <item itemvalue="Spring Boot.EvaluateApplication8403" />
+      <item itemvalue="Spring Boot.AuthenticationAuthorizationApplication9001" />
+      <item itemvalue="Spring Boot.GatewayApplication9101" />
+      <item itemvalue="Spring Boot.GatewayApplication9102" />
+      <item itemvalue="Spring Boot.GatewayApplication9103" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GeneratePassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2125f544-03ed-4650-8fa4-4e1fa71bbbbf" name="Default Changelist" comment="" />
+      <created>1615547472106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615547472106</updated>
+      <workItem from="1615547473295" duration="1695000" />
+      <workItem from="1615549186709" duration="2380000" />
+      <workItem from="1615551601584" duration="108000" />
+      <workItem from="1615551713967" duration="122000" />
+      <workItem from="1615551840030" duration="1151000" />
+      <workItem from="1615553003407" duration="1917000" />
+      <workItem from="1615554948959" duration="1058000" />
+      <workItem from="1615556026252" duration="772000" />
+      <workItem from="1615556804701" duration="416000" />
+      <workItem from="1615557240015" duration="657000" />
+      <workItem from="1615558037316" duration="13000" />
+      <workItem from="1615580118846" duration="494000" />
+      <workItem from="1615581014679" duration="209000" />
+      <workItem from="1615582746432" duration="24000" />
+      <workItem from="1615615570784" duration="66000" />
+      <workItem from="1615615642345" duration="119000" />
+      <workItem from="1615615858860" duration="669000" />
+      <workItem from="1615638500796" duration="16000" />
+      <workItem from="1615638523146" duration="783000" />
+      <workItem from="1615640068698" duration="29000" />
+      <workItem from="1615640100636" duration="39000" />
+      <workItem from="1615803276424" duration="5000" />
+      <workItem from="1615803286369" duration="2230000" />
+      <workItem from="1615806999280" duration="3712000" />
+      <workItem from="1615812024606" duration="112000" />
+      <workItem from="1615812147531" duration="8000" />
+      <workItem from="1615812159505" duration="3000" />
+      <workItem from="1615812783362" duration="15000" />
+      <workItem from="1615817592984" duration="2068000" />
+      <workItem from="1615821899745" duration="621000" />
+      <workItem from="1615822533997" duration="3000" />
+      <workItem from="1615893055938" duration="1704000" />
+      <workItem from="1615895212403" duration="7657000" />
+      <workItem from="1615902912014" duration="256000" />
+      <workItem from="1615903181581" duration="9000" />
+      <workItem from="1615903211965" duration="119000" />
+      <workItem from="1615907578100" duration="341000" />
+      <workItem from="1615907924731" duration="327000" />
+      <workItem from="1615908709101" duration="57000" />
+      <workItem from="1615908773097" duration="85000" />
+      <workItem from="1615909013547" duration="57000" />
+      <workItem from="1615989184965" duration="1131000" />
+      <workItem from="1615990322098" duration="780000" />
+      <workItem from="1615991185951" duration="12000" />
+      <workItem from="1616063766122" duration="409000" />
+      <workItem from="1616064178945" duration="2977000" />
+      <workItem from="1616067167473" duration="1202000" />
+      <workItem from="1616068375848" duration="6600000" />
+      <workItem from="1616075035781" duration="30000" />
+      <workItem from="1616075604884" duration="293000" />
+      <workItem from="1616076081988" duration="106000" />
+      <workItem from="1616076232038" duration="3000" />
+      <workItem from="1616076364648" duration="354000" />
+      <workItem from="1616077027370" duration="16000" />
+      <workItem from="1616077901792" duration="1107000" />
+      <workItem from="1616219868563" duration="2735000" />
+      <workItem from="1616223885875" duration="81000" />
+      <workItem from="1616223969643" duration="9233000" />
+      <workItem from="1616233834578" duration="1405000" />
+      <workItem from="1616235246446" duration="10728000" />
+      <workItem from="1616246670768" duration="34000" />
+      <workItem from="1616247687120" duration="194000" />
+      <workItem from="1616247886088" duration="57000" />
+      <workItem from="1616315135043" duration="11716000" />
+      <workItem from="1616326891115" duration="263000" />
+      <workItem from="1616327159025" duration="528000" />
+      <workItem from="1616327843417" duration="846000" />
+      <workItem from="1616409332007" duration="3505000" />
+      <workItem from="1616414660232" duration="85000" />
+      <workItem from="1616414748486" duration="11000" />
+      <workItem from="1616414832061" duration="1929000" />
+      <workItem from="1616416768747" duration="482000" />
+      <workItem from="1616417263019" duration="884000" />
+      <workItem from="1616418200563" duration="368000" />
+      <workItem from="1616418572025" duration="229000" />
+      <workItem from="1616418805369" duration="657000" />
+      <workItem from="1616419466717" duration="137000" />
+      <workItem from="1616419607433" duration="16000" />
+      <workItem from="1616419665077" duration="367000" />
+      <workItem from="1616420049975" duration="822000" />
+      <workItem from="1616673343871" duration="3601000" />
+      <workItem from="1617102905441" duration="7069000" />
+      <workItem from="1617191244757" duration="1992000" />
+      <workItem from="1617193246557" duration="3240000" />
+      <workItem from="1617196499823" duration="232000" />
+      <workItem from="1617196735414" duration="726000" />
+      <workItem from="1617277537260" duration="1031000" />
+      <workItem from="1617278574805" duration="190000" />
+      <workItem from="1617278767796" duration="2956000" />
+      <workItem from="1617281741403" duration="630000" />
+      <workItem from="1617282377063" duration="568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

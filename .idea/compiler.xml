@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="8002-user-role-permission" />
+        <module name="8202-provider" />
+        <module name="8103-order" />
+        <module name="8102-order" />
+        <module name="8302-payment" />
+        <module name="8403-evaluate" />
+        <module name="8001-user-role-permission" />
+        <module name="8003-user-role-permission" />
+        <module name="8203-provider" />
+        <module name="8402-evaluate" />
+        <module name="8301-payment" />
+        <module name="9101-gateway" />
+        <module name="8401-evaluate" />
+        <module name="8303-payment" />
+        <module name="8101-order" />
+        <module name="8201-provider" />
+        <module name="9102-gateway" />
+        <module name="9103-gateway" />
+        <module name="9001-authentication-authorization" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
